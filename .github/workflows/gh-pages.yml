@@ -21,6 +21,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          extended: true
 
       - name: Setup Theme Dependencies
         run: npm install -g postcss-cli autoprefixer
