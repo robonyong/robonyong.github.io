@@ -1,4 +1,4 @@
-baseurl                  = "https://robonyong.com"           # Your domain name
+baseurl                  = "https://robonyong.soy"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
