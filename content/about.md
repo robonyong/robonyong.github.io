@@ -1,8 +1,8 @@
 ---
-title: 'Background'
+title: "Background"
 ---
 
-Software Engineer, former layabout lit major. Currently leading vehicle comms at Cruise Automation, building pipes and rules engines to give some cars some purpose.
+Software Engineer, former layabout lit major. Currently at Aquarium Learning, infrastructuring some machine learners.
 
 I fiddle with new frameworks and somewhat new tech in my free time. Also working on a spicy noodle soup recipe.
 
