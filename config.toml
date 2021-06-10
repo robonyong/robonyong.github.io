@@ -14,6 +14,7 @@ pygmentsCodefences       = true
     favicon              = "robonyong.ico"
     homepage             = "home"                           # What to call the home page link
     footerText           = "robin yang's website presence"
+    customCSS            = ["css/custom.css"]
 
 # Metadata for Open Graph and Twitter
     description          = "robin yang's website presence"  # Max 160 characters show in search results
